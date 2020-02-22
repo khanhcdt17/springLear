@@ -1,0 +1,14 @@
+1582271456008	Move 'jquery' to 'vendor'
+1582271458515	Move 'bootstrap' to 'vendor'
+1582272694771	Move 'admin' to 'web'
+1582272699974	Move 'admin' to 'views'
+1582272702163	Move 'web' to 'views'
+1582272722725	Move 'home.jsp' to 'web'
+1582272731210	Move 'menu.jsp' to 'web'
+1582272733633	Move 'spring.jsp' to 'web'
+1582273015329	Delete element
+1582275141091	Rename package 'com.laptrinhjavaweb.controller'
+1582275303660	Copy compilation unit
+1582275333580	Move 'home.jsp' to 'admin'
+1582276998265	Copy file
+1582278053302	Delete element

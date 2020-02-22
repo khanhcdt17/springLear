@@ -1,0 +1,38 @@
+
+Feb 11, 2020 15:08:53.12 NEW SESSION
+Feb 11, 2020 15:08:53.12 [12736:6200:0211/150853.126:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 15:17:18.78 [12736:6200:0211/151718.784:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 15:17:22.22 [12736:6200:0211/151722.229:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Feb 11, 2020 15:19:29.42 [12736:6200:0211/151929.427:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 15:20:10.86 [12736:6200:0211/152010.867:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 15:33:36.56 [12736:6200:0211/153336.566:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 15:34:23.86 [12736:6200:0211/153423.868:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 15:34:27.23 [12736:6200:0211/153427.229:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Feb 11, 2020 15:43:31.09 [12736:6200:0211/154331.093:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 15:51:23.44 [12736:6200:0211/155123.449:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 15:52:16.21 [12736:6200:0211/155216.211:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:03:50.93 [12736:6200:0211/160350.929:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:05:00.21 [12736:6200:0211/160500.216:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:07:28.47 [12736:6200:0211/160728.471:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:07:48.83 [12736:6200:0211/160748.839:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:07:54.14 [12736:6200:0211/160754.147:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:08:11.46 [12736:6200:0211/160811.463:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:09:44.65 [12736:6200:0211/160944.656:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:15:22.05 [12736:6200:0211/161522.058:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:15:41.58 [12736:6200:0211/161541.579:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:16:54.21 [12736:6200:0211/161654.215:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:18:46.97 [12736:6200:0211/161846.978:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:24:54.87 [12736:6200:0211/162454.878:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:27:01.65 [12736:6200:0211/162701.653:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:28:21.41 [12736:6200:0211/162821.419:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:28:24.72 [12736:6200:0211/162824.725:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Feb 11, 2020 16:31:24.19 [12736:6200:0211/163124.191:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:50:22.56 [12736:6200:0211/165022.566:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:55:16.04 [12736:6200:0211/165516.046:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 16:58:51.08 [12736:6200:0211/165851.088:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 18:18:14.77 [12736:6200:0211/181814.770:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 18:18:18.22 [12736:6200:0211/181818.225:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -21
+Feb 11, 2020 18:19:04.96 [12736:6200:0211/181904.960:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 18:19:26.93 [12736:6200:0211/181926.930:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 18:28:55.27 [12736:6200:0211/182855.277:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 11, 2020 18:33:17.01 [12736:6200:0211/183317.017:ERROR:socket_stream.cc(218)] Closing stream with result -2
